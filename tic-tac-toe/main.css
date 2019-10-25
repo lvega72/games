@@ -1,3 +1,11 @@
 button {
     width: 30px;
 }
+
+button:focus {
+    outline: none;
+}
+
+.winner {
+    color : red;
+}
